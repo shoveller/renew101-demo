@@ -1,0 +1,2 @@
+const e={actions:{argTypesRegex:"^on[A-Z].*"},controls:{matchers:{color:/(background|color)$/i,date:/Date$/}},previewTabs:{"storybook/docs/panel":{hidden:!0}},html:{prettier:{printWidth:80,tabWidth:2,semi:!1,singleQuote:!0,useTabs:!1,quoteProps:"as-needed",jsxSingleQuote:!1,trailingComma:"all",bracketSpacing:!0,bracketSameLine:!1,arrowParens:"always",endOfLine:"lf",embeddedLanguageFormatting:"auto",htmlWhitespaceSensitivity:"strict"}}};export{e as parameters};
+//# sourceMappingURL=preview-b887410b.js.map
