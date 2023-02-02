@@ -1,0 +1,2 @@
+var a=Object.defineProperty;var e=(o,n)=>a(o,"name",{value:n,configurable:!0});import{c as r}from"./Header-37b412ef.js";import"./Button101-519f62db.js";const u={title:"atoms/Header",parameters:{layout:"fullscreen"},argTypes:{onLogin:{action:"onLogin"},onLogout:{action:"onLogout"},onCreateAccount:{action:"onCreateAccount"}}},t=e(o=>r(o),"Template"),s=t.bind({});s.args={user:void 0};const c=t.bind({});c.args={};const m=[];export{m as __namedExportsOrder,u as default};
+//# sourceMappingURL=Header.stories-cbf0fcc9.js.map
